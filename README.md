@@ -10,6 +10,7 @@ Please consider following this project's author, [Sharoz Tanveer](https://github
 
 ## Implementations.
 - [x] Bisection method
+- [ ] Newton Raphson method
 
 
 ### Author
